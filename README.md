@@ -6,4 +6,4 @@ Nome dos integrantes do projeto;
 - Vinícius Matos - vinicius.souza123@hotmail.com
 - Leonardo Tiso - Leonardo.tiso@unisantos.br
 - Lucas Leonardi - leonardi.lucas@hotmail.com
-- Gabriel Bomfim
+- Gabriel Bomfim - gabrielbomfimzoppello@gmail.com
