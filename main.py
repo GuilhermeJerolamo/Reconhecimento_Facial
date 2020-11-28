@@ -109,11 +109,12 @@ while True :
     ret, frame = video_capture.read()
     frame = predict(frame)
     cv2.imshow('Video', frame)
-    cv2.waitKey(0)
+    if cv2.waitKey(1) & 0xFF == ord('q'):
+        break
 
 '''
 #Linha apara teste de imagem
-img1 = cv2.imread('banco/2/1.jpg')
+img1 = cv2.imread('banco/2/1.jpg')q
 img = cv2.resize(img1, (600,600))
 img = predict(img)
 cv2.imshow('Image', img)
